@@ -6,7 +6,6 @@ import Button from "./Button";
 import Link from "next/link";
 
 
-
 export default function Cardsec() {
     const data = [
         {
