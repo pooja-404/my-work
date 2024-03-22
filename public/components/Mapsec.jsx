@@ -8,18 +8,18 @@ import Link from "next/link";
 const Mapsec = () => {
     const data = [
         {
-            head: "tool / library",
-            text: "The official Solana documentation on developing, validators, SPL tokens, wallets and more.",
+            head: "UI/UX Design",
+            text: "The mission will be accomplished, you can just enjoy the delivery and the demos",
 
         },
         {
-            head: "tool / library",
-            text: "The official Solana documentation on developing, validators, SPL tokens, wallets and more.",
+            head: "Development",
+            text: "Collaborate using ClickUp. Stunning quality created just for you.",
 
         },
         {
-            head: "tool / library",
-            text: "The official Solana documentation on developing, validators, SPL tokens, wallets and more.",
+            head: "Graphic Design",
+            text: "From design to development to make your site live, we will get it done.",
 
         },
     ];
