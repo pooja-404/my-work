@@ -32,13 +32,13 @@ const Mapsec = () => {
                         className=" bg-[#c294fb] justify-center flex-col px-5 rounded-[10px] mt-5 lg:mt-0 flex transition-all duration-300 hover:scale-[0.95]  h-[250px] w-[250px]">
                         <h2 className=" text-[#20182b] font-bold pt-2">{mydata.head}</h2>
                         <p className=" text-[#20182b] font-medium pt-2">{mydata.text}</p>
-                        <div className="flex">
+                        <a href="" className="flex">
                             <p className="text-[#20182b] font-medium">Learn more</p>
                             <svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M8.08008 17L18.0801 7" stroke="#20182b" stroke-linecap="round" stroke-linejoin="round" />
                                 <path d="M8.08008 7H18.0801V17" stroke="#20182b" stroke-linecap="round" stroke-linejoin="round" />
                             </svg>
-                        </div>
+                        </a>
                     </div>
                 ))}
             </div>
