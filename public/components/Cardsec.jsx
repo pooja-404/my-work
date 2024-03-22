@@ -32,9 +32,7 @@ export default function Cardsec() {
                 </div>
                 <Link href={'/'}><Button text="about" /></Link>
             </div>
-         
-
-
+        
         </>
     )
 }

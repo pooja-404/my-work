@@ -29,7 +29,7 @@ const Mapsec = () => {
                 {data.map((mydata, index) => (
                     <div
                         key={index}
-                        className=" bg-[#c294fb] justify-center flex-col px-5 rounded-[10px] flex transition-all duration-300 hover:scale-[0.75]  h-[250px] w-[250px]">
+                        className=" bg-[#c294fb] justify-center flex-col px-5 rounded-[10px] flex transition-all duration-300 hover:scale-[0.95]  h-[250px] w-[250px]">
                         <h2 className=" text-[#20182b] font-bold pt-2">{mydata.head}</h2>
                         <p className=" text-[#20182b] font-medium pt-2">{mydata.text}</p>
                         <div className="flex">
